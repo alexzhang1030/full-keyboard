@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "gr": "esno ./script/generate_readme.ts",
-    "c": "esno ./script/create.ts"
+    "c": "esno ./script/create.ts",
+    "p": "zx ./script/push.mjs"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +17,7 @@
     "dotenv": "^16.0.1",
     "eslint": "^8.17.0",
     "esno": "^0.16.3",
-    "typescript": "^4.7.3"
+    "typescript": "^4.7.3",
+    "zx": "^6.2.5"
   }
 }
