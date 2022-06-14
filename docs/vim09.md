@@ -4,6 +4,8 @@
 
 ## easy-motion
 
+通过 easy-motion 可以通过标注，然后快速移动到标注的位置
+
 开启 `easy-motion` 插件： `vim.easymotion: true`
 
 > 注意，下文中的 `<leader>` 指的是 vim 中的特指按键，默认情况下是 `\`, 可以配置为 `<space>` 即空格
