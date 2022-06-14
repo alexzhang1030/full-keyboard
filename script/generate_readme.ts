@@ -7,6 +7,8 @@ function main() {
   const content = generateContent(filesNames)
   execFnWithCatch(() => {
     writeFileSync(resolve(root, envs.README_FILE_NAME), content)
+    // eslint-disable-next-line no-console
+    console.info('generate readme success')
   })
 }
 

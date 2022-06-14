@@ -12,3 +12,4 @@
 - [vim09.md](docs/vim09.md)
 - [vim10.md](docs/vim10.md)
 - [vim11.md](docs/vim11.md)
+- [vim12.md](docs/vim12.md)

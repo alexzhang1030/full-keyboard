@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "gr": "esno ./script/generate_readme.ts",
-    "c": "esno ./script/create.ts",
-    "p": "zx ./script/push.mjs"
+    "create": "esno ./script/create.ts",
+    "commit": "zx ./script/git_commit.mjs"
   },
   "keywords": [],
   "author": "",
