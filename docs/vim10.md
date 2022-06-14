@@ -14,14 +14,14 @@
 > 需求：删除前 3 个单词
 
 ```ts
-export function helloWorld(){}
+export function helloWorld() {}
 ```
 
 你可以很快想出来，敲击 3 次 `dw` 即可删除，那么更简单的方式就是：直接 `d3w`，来试试吧！
 
 练习场：
 ```ts
-export function helloWorld(){}
+export function helloWorld() {}
 ```
 
 所以你肯定明白了，数字的作用就是命令重复的次数，所以你就可以想出来下面的例子：
