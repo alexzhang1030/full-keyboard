@@ -10,7 +10,7 @@ export const root = process.cwd()
 export function getFileNames() {
   let filesNames: string[] = []
   execFnWithCatch(() => {
-    filesNames = readdirSync(resolve(root, envs.VALID_DOCS_NAME)).filter(item => VALID_FILE_NAME.test(item))
+    filesNames = readdirSync(resolve(root, envs!.VALID_DOCS_NAME)).filter(item => VALID_FILE_NAME.test(item))
   })
   return filesNames
 }
