@@ -13,3 +13,5 @@
 - [vim10.md](docs/vim10.md)
 - [vim11.md](docs/vim11.md)
 - [vim12.md](docs/vim12.md)
+- [vim13.md](docs/vim13.md)
+- [vim14.md](docs/vim14.md)
