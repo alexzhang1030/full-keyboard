@@ -1,5 +1,5 @@
 import { readdirSync } from 'fs'
-import { resolve } from 'node:path/win32'
+import { resolve } from 'path'
 import env from 'dotenv'
 
 const config = env.config()
