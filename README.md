@@ -18,3 +18,4 @@
 - [vim15.md](docs/vim15.md)
 - [vim16.md](docs/vim16.md)
 - [vim17.md](docs/vim17.md)
+- [vim18.md](docs/vim18.md)
