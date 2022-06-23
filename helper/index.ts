@@ -1,16 +1,16 @@
-import { readdirSync } from 'fs'
 import { resolve } from 'path'
 import env from 'dotenv'
+import fg from 'fast-glob'
 
 const config = env.config()
 export const envs = config.parsed
-const VALID_FILE_NAME = /^vim\d+.md$/
 export const root = process.cwd()
 
-export function getFileNames() {
+export function getFileNames(index: number) {
   let filesNames: string[] = []
   execFnWithCatch(() => {
-    filesNames = readdirSync(resolve(root, envs!.VALID_DOCS_NAME)).filter(item => VALID_FILE_NAME.test(item))
+    const dirname = resolve(process.cwd(), envs!.VALID_DOCS_NAME)
+    filesNames = fg.sync([`${dirname}/${index < 10 ? '0' : ''}${index}_*.md`], { dot: true })
   })
   return filesNames
 }
@@ -23,3 +23,5 @@ export function execFnWithCatch(fn: Function) {
     console.error(error)
   }
 }
+
+export const types = ['vim', 'vscode']
