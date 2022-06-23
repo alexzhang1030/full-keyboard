@@ -2,8 +2,8 @@
  让你在日常开发中全键盘操作 
 ## learning path 
 
- ## part 1 vim 
-- [vim01](docs/01_vim01.md)
+ ### part 1 vim 
+- [vim01](docs/01_vim01.md)
 - [vim02](docs/01_vim02.md)
 - [vim03](docs/01_vim03.md)
 - [vim04](docs/01_vim04.md)
@@ -21,5 +21,6 @@
 - [vim16](docs/01_vim16.md)
 - [vim17](docs/01_vim17.md)
 - [vim18](docs/01_vim18.md)
- ## part 2 vscode 
-
+
+ ### part 2 vscode 
+- [vscode01](docs/02_vscode01.md)
