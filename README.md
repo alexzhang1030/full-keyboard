@@ -24,3 +24,4 @@
 
  ### part 2 vscode 
 - [vscode01](docs/02_vscode01.md)
+- [vscode02](docs/02_vscode02.md)
