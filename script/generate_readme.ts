@@ -1,6 +1,6 @@
 import { writeFileSync } from 'fs'
 import { resolve } from 'path'
-import { envs, execFnWithCatch, getFileNames, root, types } from '../helper'
+import { envs, execFnWithCatch, getFileNames, getSubTitle, root, types } from '../helper'
 
 function write(type: string, index: number) {
   const filesNames = getFileNames(index)
@@ -12,7 +12,8 @@ function generateContent(filesNames: string[], type: string, index: number) {
   const prefix = `### part ${index} ${type} \n`
   const list = filesNames.map((item) => {
     const name = /_(.*?).md/.exec(item)![1]
-    return `- [${name}](${envs!.VALID_DOCS_NAME}/0${index}_${name}.md)`
+    const subTitle = getSubTitle(item)
+    return `- [${name} - ${subTitle}](${envs!.VALID_DOCS_NAME}/0${index}_${name}.md)`
   }).join('\n')
   return prefix + list
 }

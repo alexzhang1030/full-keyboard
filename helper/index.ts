@@ -1,4 +1,5 @@
 import { resolve } from 'path'
+import { readFileSync } from 'fs'
 import env from 'dotenv'
 import fg from 'fast-glob'
 
@@ -13,6 +14,14 @@ export function getFileNames(index: number) {
     filesNames = fg.sync([`${dirname}/${index < 10 ? '0' : ''}${index}_*.md`], { dot: true })
   })
   return filesNames
+}
+
+const subTitleReg = /^#.+\n+(.+)/
+
+export function getSubTitle(fullPath: string) {
+  const content = readFileSync(fullPath, 'utf8').replaceAll('\r', '')
+  const matched = subTitleReg.exec(content)
+  return matched ? matched[1] : ''
 }
 
 export function execFnWithCatch(fn: Function) {
