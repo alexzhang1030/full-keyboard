@@ -26,3 +26,4 @@
 - [vscode01 - 如何在 VSCode 中操作文件](docs/02_vscode01.md)
 - [vscode02 - 掌握多窗口管理](docs/02_vscode02.md)
 - [vscode03 - 掌握搜索](docs/02_vscode03.md)
+- [vscode04 - vscode 高效编码技巧](docs/02_vscode04.md)
