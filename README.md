@@ -1,11 +1,8 @@
 # full keyboard (only `Chinese` now) 
+ 让你在日常开发中全键盘操作 
+## learning path 
 
- 让你在日常开发中全键盘操作 
-
-## learning path 
-
-
- ### part 1 vim 
+ ### part 1 vim 
 - [vim01 - 认识 vim](docs/01_vim01.md)
 - [vim02 - vim 的基础指令](docs/01_vim02.md)
 - [vim03 - 掌握 vim 的语法](docs/01_vim03.md)
@@ -25,8 +22,7 @@
 - [vim17 - 掌握宏](docs/01_vim17.md)
 - [vim18 - vim 调用 vscode 的命令](docs/01_vim18.md)
 
-
- ### part 2 vscode 
+ ### part 2 vscode 
 - [vscode01 - 如何在 VSCode 中操作文件](docs/02_vscode01.md)
 - [vscode02 - 掌握多窗口管理](docs/02_vscode02.md)
 - [vscode03 - 掌握搜索](docs/02_vscode03.md)
