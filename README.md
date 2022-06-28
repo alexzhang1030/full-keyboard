@@ -27,3 +27,4 @@
 - [vscode02 - 掌握多窗口管理](docs/02_vscode02.md)
 - [vscode03 - 掌握搜索](docs/02_vscode03.md)
 - [vscode04 - vscode 高效编码技巧](docs/02_vscode04.md)
+- [vscode05 - 发现使用快捷键的场景](docs/02_vscode05.md)
