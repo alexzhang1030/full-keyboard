@@ -30,3 +30,4 @@
 - [vscode05 - 发现使用快捷键的场景](docs/02_vscode05.md)
 - [vscode06 - 搞定 Git](docs/02_vscode06.md)
 - [vscode07 - 使用 snippets 代码片段](docs/02_vscode07.md)
+- [vscode08 - 掌握重构相关的功能](docs/02_vscode08.md)
