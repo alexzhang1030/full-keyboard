@@ -35,7 +35,8 @@ LazyGit 是一个管理 Git 的工具，对 vim 党非常友好
 - `unstaged` -> `staged`: `<space>`
 - `staged` -> `committed`: `c`
 - `committed` -> `staged`: `g`
-- `committed` -> `pushed`: `p`
+- `committed` -> `pushed`: `P`
+- `pull`: `p`
 - all switch `staged` and `unstaged`: `a`
 - discard this change: `d`
 - discard multiple file change: `D`
