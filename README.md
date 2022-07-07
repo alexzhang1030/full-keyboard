@@ -32,6 +32,8 @@
 - [vscode07 - 使用 snippets 代码片段](docs/02_vscode07.md)
 - [vscode08 - 掌握重构相关的功能](docs/02_vscode08.md)
 - [vscode09 - VSpaceCode 插件](docs/02_vscode09.md)
+- [vscode10 - 玩转终端](docs/02_vscode10.md)
+- [vscode11 - 使用快捷键来 debug](docs/02_vscode11.md)
 
  ### part 3 tools 
 - [tools01 - lazy git](docs/03_tools01.md)
