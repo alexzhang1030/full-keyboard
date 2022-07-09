@@ -37,3 +37,6 @@
 
  ### part 3 tools 
 - [tools01 - lazy git](docs/03_tools01.md)
+
+ ### part 4 chrome 
+- [chrome01 - 初始化 vimiumc](docs/04_chrome01.md)
