@@ -40,3 +40,4 @@
 
  ### part 4 chrome 
 - [chrome01 - 初始化 vimiumc](docs/04_chrome01.md)
+- [chrome02 - VimiumC 页面内的操作](docs/04_chrome02.md)
