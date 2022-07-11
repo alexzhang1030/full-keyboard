@@ -41,3 +41,4 @@
  ### part 4 chrome 
 - [chrome01 - 初始化 vimiumc](docs/04_chrome01.md)
 - [chrome02 - VimiumC 页面内的操作](docs/04_chrome02.md)
+- [chrome03 - 掌握搜索和查找](docs/04_chrome03.md)
