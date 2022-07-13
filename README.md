@@ -43,3 +43,4 @@
 - [chrome02 - VimiumC 页面内的操作](docs/04_chrome02.md)
 - [chrome03 - 掌握搜索和查找](docs/04_chrome03.md)
 - [chrome04 - 操作标签](docs/04_chrome04.md)
+- [chrome05 - 创建标记](docs/04_chrome05.md)
