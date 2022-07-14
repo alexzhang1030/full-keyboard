@@ -44,3 +44,4 @@
 - [chrome03 - 掌握搜索和查找](docs/04_chrome03.md)
 - [chrome04 - 操作标签](docs/04_chrome04.md)
 - [chrome05 - 创建标记](docs/04_chrome05.md)
+- [chrome06 - 快捷键操作 DevTools](docs/04_chrome06.md)
