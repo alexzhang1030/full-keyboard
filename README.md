@@ -46,3 +46,6 @@
 - [chrome05 - 创建标记](docs/04_chrome05.md)
 - [chrome06 - 快捷键操作 DevTools](docs/04_chrome06.md)
 - [chrome07 - 快捷键进行 debug](docs/04_chrome07.md)
+
+ ### part 5 iterm 
+- [iterm01 - iTerm2 中的导航](docs/05_iterm01.md)
