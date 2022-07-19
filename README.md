@@ -50,3 +50,4 @@
  ### part 5 iterm 
 - [iterm01 - iTerm2 中的导航](docs/05_iterm01.md)
 - [iterm02 - zellij 做窗口管理](docs/05_iterm02.md)
+- [iterm03 - Zellij 的高级用法](docs/05_iterm03.md)
