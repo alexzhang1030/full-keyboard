@@ -45,3 +45,5 @@ mkdir ~/.config/zellij
 # 2. 根据 zellij setup 将配置文件写入到指定文件中
 zellij setup --dump-config > ~/.config/zellij/config.yaml
 ```
+
+[文档](https://zellij.dev/documentation/)
