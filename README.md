@@ -54,3 +54,4 @@
 
  ### part 6 zsh 
 - [zsh01 - zsh-vi-mode](docs/06_zsh01.md)
+- [zsh02 - zsh 常用的插件](docs/06_zsh02.md)
