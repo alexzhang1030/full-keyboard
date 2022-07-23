@@ -37,6 +37,8 @@
 
  ### part 3 tools 
 - [tools01 - lazy git](docs/03_tools01.md)
+- [tools02 - zellij 做窗口管理](docs/03_tools02.md)
+- [tools03 - Zellij 的高级用法](docs/03_tools03.md)
 
  ### part 4 chrome 
 - [chrome01 - 初始化 vimiumc](docs/04_chrome01.md)
@@ -49,6 +51,6 @@
 
  ### part 5 iterm 
 - [iterm01 - iTerm2 中的导航](docs/05_iterm01.md)
-- [iterm02 - zellij 做窗口管理](docs/05_iterm02.md)
-- [iterm03 - Zellij 的高级用法](docs/05_iterm03.md)
-- [iterm04 - zsh-vi-mode](docs/05_iterm04.md)
+
+ ### part 6 zsh 
+- [zsh01 - zsh-vi-mode](docs/06_zsh01.md)

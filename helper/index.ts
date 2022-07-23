@@ -33,4 +33,4 @@ export function execFnWithCatch(fn: Function) {
   }
 }
 
-export const types = ['vim', 'vscode', 'tools', 'chrome', 'iterm']
+export const types = ['vim', 'vscode', 'tools', 'chrome', 'iterm', 'zsh']
