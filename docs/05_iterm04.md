@@ -32,3 +32,34 @@ zsh-vi-mode
 
 - `j/k`: NORMAL 模式下的上一个和下一个
 - `/`: 开启历史记录搜索模式
+
+### surround
+
+zsh-vi-mode 提供了两种 surround 的方式：
+
+通过环境变量 `ZSH-VI-SURROUND-BINDKEY` 来切换不同的模式
+
+默认值就是经典值，还可以通过 `s-prefix` 来修改
+
+#### Classical
+
+- `S<symbol>`: 选中块添加符号
+- `ys<symbol>`: 选中块添加符号
+- `cs<symbol>`: 选中块修改符号
+- `ds<symbol>`: 选中块删除符号
+
+#### s-prefix
+
+- `sa<symbol>`: 选中块添加符号
+- `sd<symbol>`: 删除符号
+- `sr<symbol>`: 修改符号
+
+### 改键
+
+在 `zsh-vi-mode` 中改键稍微有点复杂，根据[文档](https://github.com/jeffreytse/zsh-vi-mode#custom-widgets-and-keybindings) 所说，我们需要在其本体的 `zsh-vi-mode.zsh` 文件中加入自定义的函数即可。
+
+### Increment/Decrement
+
+[说明](https://github.com/jeffreytse/zsh-vi-mode#increment-and-decrement)
+
+通过 `ctrl-a`/`ctrl-x` 来切换 increment/decrement 的值
