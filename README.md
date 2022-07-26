@@ -39,6 +39,7 @@
 - [tools01 - lazy git](docs/03_tools01.md)
 - [tools02 - zellij 做窗口管理](docs/03_tools02.md)
 - [tools03 - Zellij 的高级用法](docs/03_tools03.md)
+- [tools04 - manico 管理多个 app 的切换](docs/03_tools04.md)
 
  ### part 4 chrome 
 - [chrome01 - 初始化 vimiumc](docs/04_chrome01.md)
@@ -55,3 +56,4 @@
  ### part 6 zsh 
 - [zsh01 - zsh-vi-mode](docs/06_zsh01.md)
 - [zsh02 - zsh 常用的插件](docs/06_zsh02.md)
+- [zsh03 - zsh 自定义快捷键](docs/06_zsh03.md)
