@@ -40,6 +40,9 @@
 - [tools02 - zellij 做窗口管理](docs/03_tools02.md)
 - [tools03 - Zellij 的高级用法](docs/03_tools03.md)
 - [tools04 - manico 管理多个 app 的切换](docs/03_tools04.md)
+- [tools05 - 窗口管理工具 moom](docs/03_tools05.md)
+- [tools06 - alfred 掌握搜索](docs/03_tools06.md)
+- [tools07 - Alfred 的 Clipboard](docs/03_tools07.md)
 
  ### part 4 chrome 
 - [chrome01 - 初始化 vimiumc](docs/04_chrome01.md)
