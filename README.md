@@ -43,6 +43,7 @@
 - [tools05 - 窗口管理工具 moom](docs/03_tools05.md)
 - [tools06 - alfred 掌握搜索](docs/03_tools06.md)
 - [tools07 - Alfred 的 Clipboard](docs/03_tools07.md)
+- [tools08 - Alfred 的 Snippets](docs/03_tools08.md)
 
  ### part 4 chrome 
 - [chrome01 - 初始化 vimiumc](docs/04_chrome01.md)
