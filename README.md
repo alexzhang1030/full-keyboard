@@ -62,3 +62,7 @@
 - [zsh01 - zsh-vi-mode](docs/06_zsh01.md)
 - [zsh02 - zsh 常用的插件](docs/06_zsh02.md)
 - [zsh03 - zsh 自定义快捷键](docs/06_zsh03.md)
+
+ ### part 7 macos 
+- [macos01 - MacOS 下的常用快捷键](docs/07_macos01.md)
+- [macos02 - Finder 的常用快捷键](docs/07_macos02.md)
