@@ -66,3 +66,4 @@
  ### part 7 macos 
 - [macos01 - MacOS 下的常用快捷键](docs/07_macos01.md)
 - [macos02 - Finder 的常用快捷键](docs/07_macos02.md)
+- [macos03 - 文本编辑相关](docs/07_macos03.md)
