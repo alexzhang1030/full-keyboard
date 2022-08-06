@@ -67,3 +67,6 @@
 - [macos01 - MacOS 下的常用快捷键](docs/07_macos01.md)
 - [macos02 - Finder 的常用快捷键](docs/07_macos02.md)
 - [macos03 - 文本编辑相关](docs/07_macos03.md)
+
+ ### part 8 obsidian 
+- [obsidian01 - 配置 vim](docs/08_obsidian01.md)
