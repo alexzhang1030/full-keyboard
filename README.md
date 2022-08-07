@@ -70,3 +70,4 @@
 
  ### part 8 obsidian 
 - [obsidian01 - 配置 vim](docs/08_obsidian01.md)
+- [obsidian02 - 文件操作的常见指令](docs/08_obsidian02.md)
