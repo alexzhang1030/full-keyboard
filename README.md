@@ -72,3 +72,4 @@
 - [obsidian01 - 配置 vim](docs/08_obsidian01.md)
 - [obsidian02 - 文件操作的常见指令](docs/08_obsidian02.md)
 - [obsidian03 - 文本编辑相关快捷键](docs/08_obsidian03.md)
+- [obsidian04 - 双链](docs/08_obsidian04.md)
