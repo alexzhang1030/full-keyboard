@@ -1,8 +1,11 @@
-# full keyboard (only `Chinese` now) 
- 让你在日常开发中全键盘操作 
-## learning path 
+# full keyboard (only `Chinese` now)
 
- ### part 1 vim 
+ 让你在日常开发中全键盘操作
+
+## learning path
+
+### part 1 vim
+
 - [vim01 - 认识 vim](docs/01_vim01.md)
 - [vim02 - vim 的基础指令](docs/01_vim02.md)
 - [vim03 - 掌握 vim 的语法](docs/01_vim03.md)
@@ -22,7 +25,8 @@
 - [vim17 - 掌握宏](docs/01_vim17.md)
 - [vim18 - vim 调用 vscode 的命令](docs/01_vim18.md)
 
- ### part 2 vscode 
+### part 2 vscode
+
 - [vscode01 - 如何在 VSCode 中操作文件](docs/02_vscode01.md)
 - [vscode02 - 掌握多窗口管理](docs/02_vscode02.md)
 - [vscode03 - 掌握搜索](docs/02_vscode03.md)
@@ -35,7 +39,8 @@
 - [vscode10 - 玩转终端](docs/02_vscode10.md)
 - [vscode11 - 使用快捷键来 debug](docs/02_vscode11.md)
 
- ### part 3 tools 
+### part 3 tools
+
 - [tools01 - lazy git](docs/03_tools01.md)
 - [tools02 - zellij 做窗口管理](docs/03_tools02.md)
 - [tools03 - Zellij 的高级用法](docs/03_tools03.md)
@@ -46,7 +51,8 @@
 - [tools08 - Alfred 的 Snippets](docs/03_tools08.md)
 - [tools09 - Alfred 的 workflows](docs/03_tools09.md)
 
- ### part 4 chrome 
+### part 4 chrome
+
 - [chrome01 - 初始化 vimiumc](docs/04_chrome01.md)
 - [chrome02 - VimiumC 页面内的操作](docs/04_chrome02.md)
 - [chrome03 - 掌握搜索和查找](docs/04_chrome03.md)
@@ -55,20 +61,24 @@
 - [chrome06 - 快捷键操作 DevTools](docs/04_chrome06.md)
 - [chrome07 - 快捷键进行 debug](docs/04_chrome07.md)
 
- ### part 5 iterm 
+### part 5 iterm
+
 - [iterm01 - iTerm2 中的导航](docs/05_iterm01.md)
 
- ### part 6 zsh 
+### part 6 zsh
+
 - [zsh01 - zsh-vi-mode](docs/06_zsh01.md)
 - [zsh02 - zsh 常用的插件](docs/06_zsh02.md)
 - [zsh03 - zsh 自定义快捷键](docs/06_zsh03.md)
 
- ### part 7 macos 
+### part 7 macos
+
 - [macos01 - MacOS 下的常用快捷键](docs/07_macos01.md)
 - [macos02 - Finder 的常用快捷键](docs/07_macos02.md)
 - [macos03 - 文本编辑相关](docs/07_macos03.md)
 
- ### part 8 obsidian 
+### part 8 obsidian
+
 - [obsidian01 - 配置 vim](docs/08_obsidian01.md)
 - [obsidian02 - 文件操作的常见指令](docs/08_obsidian02.md)
 - [obsidian03 - 文本编辑相关快捷键](docs/08_obsidian03.md)
